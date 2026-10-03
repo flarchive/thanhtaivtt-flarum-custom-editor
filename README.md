@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of thanhtaivtt/flarum-custom-editor.** Not for installation: use [Packagist](https://packagist.org/packages/thanhtaivtt/flarum-custom-editor) or the [upstream repository](https://github.com/thanhtaivtt/flarum-custom-editor).
 
-**0** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/thanhtaivtt-flarum-custom-editor/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^0.1.0-beta.8`
+**1** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/thanhtaivtt-flarum-custom-editor/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2019-09-28 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/thanhtaivtt-flarum-custom-editor/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/thanhtaivtt-flarum-custom-editor.json](https://github.com/flarchive/archive-index/blob/main/packages/thanhtaivtt-flarum-custom-editor.json)
 
